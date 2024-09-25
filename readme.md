@@ -25,3 +25,6 @@
 - https://github.com/raspberrypi/debugprobe/releases/download/picoprobe-cmsis-v1.02/picoprobe.uf2
 - picoprobe の BOOTSEL ボタンを押しながら USB 接続
 
+## Raspberry Pi Pico データシート
+- https://akizukidenshi.com/goodsaffix/rp2040-datasheet.pdf
+    - GPIO レジスタ: P.40 
